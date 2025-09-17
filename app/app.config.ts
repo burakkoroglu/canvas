@@ -1,26 +1,26 @@
 export default defineAppConfig({
   global: {
-    meetingLink: 'https://cal.com/hugorcd/15min',
+    meetingLink: 'https://cal.com/burakkoroglu/15min',
     available: true,
   },
   profile: {
-    name: 'Hugo Richard',
-    job: 'Frontend Architect and Designer',
-    email: 'contact@hrcd.fr',
-    phone: '(+33) 6 21 56 22 18',
-    picture: 'https://avatars.githubusercontent.com/u/71938701?v=4',
+    name: 'Burak Köroğlu',
+    job: 'Full-stack Software(.Net/Vue.js)',
+    email: 'koroglu.burak@outlook.com',
+    phone: '+90 (535) 576 31 43',
+    picture: 'https://avatars.githubusercontent.com/u/81712677',
   },
   socials: {
-    github: 'https://github.com/HugoRCD',
-    twitter: 'https://twitter.com/HugoRCD__',
-    linkedin: 'https://www.linkedin.com/in/hugo-richard-0801',
-    instagram: 'https://www.instagram.com/hugo.rcd_',
-    spotify: 'https://open.spotify.com/user/yuvl0zpp3bpx4hne1ag7huten?si=df7ee2777c0c4fc4',
+    github: 'https://github.com/burakkoroglu',
+    twitter: 'https://x.com/kor_ooglu',
+    linkedin: 'https://www.linkedin.com/in/korogluburak/',
+    instagram: 'https://www.instagram.com/kor.ooglu',
+    spotify: 'https://open.spotify.com/user/313mcgexideg3mufolhtb7maew3m?si=d4920eba6ca44fc2',
   },
   seo: {
-    title: 'Canvas a Nuxt portfolio template',
-    description: 'Canvas is a simple but beautiful portfolio template for designers and developers built with Nuxt and Tailwind CSS. Made with ❤️ by HugoRCD',
-    url: 'https://canvas.hrcd.fr',
+    title: 'Burak Köroğlu Full-stack Software Engineer',
+    description: 'Burak Köroğlu Full-stack Software Engineer',
+    url: 'https://burakkoroglu.com',
   },
   ui: {
     colors: {

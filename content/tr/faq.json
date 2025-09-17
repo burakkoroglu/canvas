@@ -1,0 +1,53 @@
+{
+  "title": "SSS",
+  "subtitle": "Sıkça sorulan sorular",
+  "faqQuestions": [
+    {
+      "title": "Hizmetler",
+      "questions": [
+        {
+          "label": "Hangi hizmetleri sunuyorsunuz?",
+          "content": "Web ve yazılım geliştirme, frontend ve backend çözümleri, Nuxt.js ve Vue.js tabanlı uygulama geliştirme, API entegrasyonları ve bakım hizmetleri sunuyorum. Ayrıca teknik danışmanlık ve çözüm önerileri konusunda da destek verebilirim."
+        },
+        {
+          "label": "Web sitesi yapmayı öğrenmek istiyorum, yardımcı olur musunuz?",
+          "content": "Şu anda resmi bir eğitim vermiyorum, fakat öğrenmenizi destekleyecek kaynaklar ve tavsiyeler önerebilirim."
+        }
+      ]
+    },
+    {
+      "title": "Fiyatlandırma",
+      "questions": [
+        {
+          "label": "Bir projenin maliyeti ne kadar?",
+          "content": "Projenin maliyeti; kapsam, özellikler, geliştirme süresi gibi birçok faktöre bağlıdır. Web geliştirme hizmetlerim için başlangıç ücreti 2000€, ortalama fiyat 3000€-10000€ arasındadır. Diğer danışmanlık veya tasarım hizmetlerinde genellikle günlük 450€ ücret alıyorum."
+        },
+        {
+          "label": "Proje ödemesi nasıl yapılır?",
+          "content": "Projeye başlamadan önce %40 ön ödeme talep ediyorum, proje tamamlandıktan sonra kalan %60 ödeniyor. Banka transferi, PayPal gibi yöntemleri kabul ediyorum."
+        },
+        {
+          "label": "Bir proje ne kadar sürer?",
+          "content": "Her proje farklıdır; kesin süre vermek zor. Ancak geçmiş projelerim genellikle 2 hafta ile 2 ay arasında tamamlanmıştır."
+        },
+        {
+          "label": "İndirim sunuyor musunuz?",
+          "content": "Öğrenciler ve kar amacı gütmeyen kuruluşlar için %15 indirim sağlıyorum."
+        }
+      ]
+    },
+    {
+      "title": "Kişisel",
+      "questions": [
+        {
+          "label": "Bu işin en çok hangi yönünü seviyorsunuz?",
+          "content": "Yeni şeyler öğrenmeyi ve sıfırdan işlevsel çözümler oluşturmayı seviyorum. İnsanların kullanacağı ve beğeneceği projeler üretmek beni motive ediyor."
+        },
+        {
+          "label": "İş dışında hobileriniz neler?",
+          "content": "Kendi projelerim üzerinde çalışmak ve teknik becerilerimi geliştirmekle zaman geçiriyorum. Ayrıca sporla ilgileniyorum; spor salonuna gidiyor ve düzenli olarak halısahaya gidiyorum."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Yazılar",
+  "description": "Yazılarımdan bir koleksiyon",
+  "empty": "Henüz yazı yok, yakında tekrar kontrol edin!",
+  "not_found": "Yazı bulunamadı",
+  "not_found_description": "Aradığınız yazıyı bulamadık.",
+  "back_link": "Yazılara geri dön",
+  "readingTime": "dakikada okunur",
+  "share": "Makaleyi paylaş",
+  "copy_link": "Bağlantıyı kopyala",
+  "search_article": "Yazı ara",
+  "blog": "Blog",
+  "unknown_author": "Bilinmeyen yazar",
+  "show_search": "Ara",
+  "hide_search": "Aramayı gizle"
+}

@@ -105,7 +105,7 @@ async function onSubmit(event: FormSubmitEvent<Schema>) {
             v-model="state.phone"
             autocomplete="tel"
             class="w-full"
-            placeholder="123-456-7890"
+            placeholder="0 512 345 67 89"
           />
         </UFormField>
 

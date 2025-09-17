@@ -1,0 +1,20 @@
+{
+  "title": "Bana Ulaşın",
+  "description": "Fikirleriniz, projeleriniz veya başka herhangi bir şey hakkında konuşalım",
+  "fullname": "Ad Soyad",
+  "email": "E-posta",
+  "phone": "Telefon",
+  "subject": "Mesajınızın Konusu",
+  "message": "Mesaj",
+  "submit": "Gönder",
+  "disabled": "Resend API anahtarınızı ayarlamanız gerekiyor",
+  "success": "Mesajınız başarıyla gönderildi",
+  "error": "Hata oluştu, mesaj gönderilemedi",
+  "budget": "Bütçe",
+  "subject_types": {
+    "project": "Bir proje hakkında konuşalım",
+    "bug": "Bir hatayı bildirin",
+    "question": "Bir soru sorun",
+    "other": "Diğer"
+  }
+}
