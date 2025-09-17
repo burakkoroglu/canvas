@@ -26,7 +26,7 @@ export default defineNuxtConfig({
   css: ['~/assets/style/main.css'],
 
   site: {
-    url: 'https://canvas.hrcd.fr',
+    url: 'https://burakkoroglu.com',
     defaultLocale: 'en',
     indexable: true,
   },
@@ -77,7 +77,7 @@ export default defineNuxtConfig({
     prerender: {
       autoSubfolderIndex: false,
       crawlLinks: true,
-      routes: ['/en', '/fr'],
+      routes: ['/en', '/tr'],
     },
   },
 
